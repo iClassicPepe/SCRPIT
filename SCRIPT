@@ -1,0 +1,2 @@
+while true do
+loadstring(game:HttpGet("UrlHere",true))();
